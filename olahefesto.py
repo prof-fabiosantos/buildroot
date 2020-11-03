@@ -1,1 +1,1 @@
-print "Olá projeto HFESTO exemplo de pacote"
+print ("Olá projeto HFESTO exemplo de pacote")
